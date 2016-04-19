@@ -26,7 +26,7 @@ import java.util.UUID;
 public class DrawerFormActivity extends ActionBarActivity {
 
     private static final String EXTRA_ID_SURVEY="test";
-    private int a;
+
 
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerList;
