@@ -27,6 +27,7 @@ public class DrawerFormActivity extends ActionBarActivity {
 
     private static final String EXTRA_ID_SURVEY="test";
 
+    private int berhasilGa;
 
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerList;
